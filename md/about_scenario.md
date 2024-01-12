@@ -1,5 +1,5 @@
 
-For further details see:
+For further details see: 
 
 * KC et al. (2024). Updating the Shared Socioeconomic Pathways (SSPs) Global Population and Human Capital Projections. *IIASA Working Paper*. 
 
